@@ -1,2 +1,4 @@
 # polybar
 # polybar
+# rofi
+# rofi
